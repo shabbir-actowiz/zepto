@@ -1,3 +1,5 @@
 search_output/
 *.json
 *.ipynb
+*.pyc
+__pycache__/
